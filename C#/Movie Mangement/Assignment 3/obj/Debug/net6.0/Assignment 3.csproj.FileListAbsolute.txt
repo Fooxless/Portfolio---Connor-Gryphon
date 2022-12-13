@@ -1,0 +1,30 @@
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.AssemblyInfoInputs.cache
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.AssemblyInfo.cs
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.exe
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.deps.json
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.runtimeconfig.json
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.dll
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.pdb
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.dll
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\refint\Assignment 3.dll
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.pdb
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.genruntimeconfig.cache
+C:\Users\cgryp\OneDrive - Queensland University of Technology\2022\Semester 1\CAB301 Algorithms and Complexity\project\repo\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\ref\Assignment 3.dll
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.exe
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.deps.json
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.runtimeconfig.json
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.dll
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\bin\Debug\net6.0\Assignment 3.pdb
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.csproj.AssemblyReference.cache
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.AssemblyInfoInputs.cache
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.AssemblyInfo.cs
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.dll
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\refint\Assignment 3.dll
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.pdb
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\Assignment 3.genruntimeconfig.cache
+C:\Users\main\Source\Repos\facemaniac\301Assign3\Assignment 3\Assignment 3\obj\Debug\net6.0\ref\Assignment 3.dll
