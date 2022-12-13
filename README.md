@@ -4,7 +4,7 @@ Hi, I see you've managed to stumble onto my Portfolio Repository.
 
 My name is Connor Gryphon and I am recent graduate from the Queensland University of Technology (QUT) whom was studing a Bachelor of Information Technology majoring in Computer Science.
 
-This portfoilio consists of personal and unversity projects that I have worked on in the past and allows you to see some of my previous work. There will be screenshots included with each project for a quick glance of what the project is and some of my Web projects have been deployed and will be viewable below.
+This portfoilio consists of personal and unversity projects that I have worked on in the past and allows you to see some of my previous work. There will be screenshots included with each project for a quick glance of what the project is and some of my Web projects have been deployed and will be viewable in the URL specified.
 
 ## Projects in this Repository
 
