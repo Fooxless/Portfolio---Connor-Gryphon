@@ -28,3 +28,18 @@ This portfoilio consists of personal and unversity projects that I have worked o
         - Turtle Graphics
 
 ## Projects in Other Repositories
+
+1. **DnD Encounters Web App**
+   - In Progress
+       
+2. **Convert Image Resolutions Web App**
+   - Have to Deploy
+
+3. **API Mashup Web App**
+    - Have to Deploy
+        
+ 4. **Volcano Web App**
+    - Have to Deploy
+        
+        
+
