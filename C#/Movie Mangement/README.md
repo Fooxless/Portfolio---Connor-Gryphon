@@ -14,3 +14,5 @@ In order to login as a staff user in the software you need the below credentials
 username: "staff"
 passowrd: "today123"
 ```
+
+*This project was a university assignment.*
