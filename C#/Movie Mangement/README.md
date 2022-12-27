@@ -18,3 +18,5 @@ passowrd: "today123"
 ![Top Borrowed Movies](https://user-images.githubusercontent.com/102510556/209735751-8cb1804f-4c21-4be4-91a3-27f89defd5b8.PNG)
 
 *This project was a university assignment.*
+
+*Other Team Members include: Nick Etheridge and Calum Hathaway*
