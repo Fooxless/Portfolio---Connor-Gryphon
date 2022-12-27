@@ -17,3 +17,5 @@ Project made use of:
 ![Larger Solvable Maze](https://user-images.githubusercontent.com/102510556/209735913-a37e8fdf-6426-4258-987c-1ae69bc68068.PNG)
 
 *This project was a university assignment.*
+
+*Other Team Members include: Nick Etheridge and Gabriel Bohnen*
