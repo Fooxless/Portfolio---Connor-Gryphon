@@ -33,7 +33,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ### 3. [Python - Spy vs Spy [2020]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/Python/Spy%20vs%20Spy)
 
-    - This project is a simulation of four different factions competing over the land.
+   - This project is a simulation of four different factions competing over the land.
         - Python 3
         - Standard Python 3 Modules
         - Turtle Graphics
