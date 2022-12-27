@@ -1,5 +1,5 @@
 [Back to Portfolio](https://github.com/Fooxless/Portfolio-Connor-Gryphon)
-# Maze Creation and Editing Software
+# Maze Creation and Editing Software [2022]
 This project is a software tool to assist designers in creating custom mazes. Users are able to create new mazes of differing sizes (up to 100 cols an rows), insert start/end images and logos into the maze design. These image sizes can also be adjusted before inserted into the maze. Maze solutions can be toggle on/off and users are able to export the mazes to a PNG. Mazes can also be saved in a local database and opened on a later date.
 
 Project Information:
