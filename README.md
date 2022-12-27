@@ -8,7 +8,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ## Projects in this Repository 
 
-### 1. [C# - Movie Management [2022]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/C%23/Movie%20Mangement)
+### [C# - Movie Management [2022]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/C%23/Movie%20Mangement)
 
    - This project is a interactive text based movie management system where members are able to log into the system and borrow new movies. Makes use of:
        - Binary Search Trees
@@ -19,7 +19,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ---
        
-### 2. [Java - Maze Project [2022]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/Java/Maze%20Project)
+### [Java - Maze Project [2022]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/Java/Maze%20Project)
 
    - This project is a software tool to assist designers in creating custom mazes.
         - Java Swing (GUI Toolkit)
@@ -31,7 +31,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ---
 
-### 3. [Python - Spy vs Spy [2020]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/Python/Spy%20vs%20Spy)
+### [Python - Spy vs Spy [2020]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/Python/Spy%20vs%20Spy)
 
    - This project is a simulation of four different factions competing over the land.
         - Python 3
