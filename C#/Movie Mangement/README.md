@@ -1,3 +1,4 @@
+[Back to Portolio](https://github.com/Fooxless/Portfolio-Connor-Gryphon)
 # Movie Store Management Software [2022]
 This project is a interactive text based movie management system where members are able to log into the system and borrow new movies. They can also return movies, view the top 3 movies, and view all movies in the system. Staff users are able to create/remove members and create/remove movies from the system. They can also member's contact number and see all members currently renting a particular movie.
 
