@@ -13,7 +13,8 @@ This portfoilio consists of personal and unversity projects that I have worked o
        - Binary Search Trees
        - Flexing Array (set)
        - Terminal based UI
- ![alt text](https://github.com/Foxless/Portfolio-Connor-Gryphon/blob/master/C#/Movie%20Mangement/Screenshots/staff%20menu.PNG?raw=true)
+![staff menu](https://user-images.githubusercontent.com/102510556/209650843-90aea426-4244-4092-a8ed-1324db02e172.PNG)
+
        
 2. **Java - Maze Project**
    - This project is a software tool to assist designers in creating custom mazes.
