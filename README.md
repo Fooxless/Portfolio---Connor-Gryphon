@@ -14,9 +14,18 @@ This portfoilio consists of personal and unversity projects that I have worked o
 ### 2. Convert Image Resolutions Web App [2022]
    - Have to Deploy
 
-### 3. MashFoodie Web App [2022]
-    - Have to Deploy
-        
+### 3. [MashFoodie Web App [2022]](https://github.com/Fooxless/MashFoodie-Web-App)
+
+   - This web application is a API Mashup of different APIs and uses an AWS bucket to store a visit counter of the web page. The purpose of the mashup is to allow someone to view restaurants around them, get directions to a selected restaurant and view the nutritional information of the menu for the said restaurant.
+       - AWS Bucket
+       - Google API, Edama API, Rapid API
+       - React (Frontend) 
+       - Express (Backend)
+       
+       ![map to](https://user-images.githubusercontent.com/102510556/209744657-2d679500-8d07-4965-be6b-733293b56a15.PNG)
+
+---
+
 ### 4. Volcano Web App [2022]
     - Have to Deploy
         
