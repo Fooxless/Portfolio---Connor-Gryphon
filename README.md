@@ -8,13 +8,13 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ## Projects in Other Repositories
 
-### 1. DnD Encounters Web App [2022]
+### DnD Encounters Web App [2022]
    - In Progress
        
-### 2. Convert Image Resolutions Web App [2022]
+### Convert Image Resolutions Web App [2022]
    - In Progress
 
-### 3. [MashFoodie Web App [2022]](https://github.com/Fooxless/MashFoodie-Web-App)
+### [MashFoodie Web App [2022]](https://github.com/Fooxless/MashFoodie-Web-App)
 
    - This web application is a API Mashup of different APIs and uses an AWS bucket to store a visit counter of the web page. The purpose of the mashup is to allow someone to view restaurants around them, get directions to a selected restaurant and view the nutritional information of the menu for the said restaurant.
        - AWS Bucket
@@ -26,7 +26,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ---
 
-### 4. Volcano Web App [2022]
+### Volcano Web App [2022]
    - In Progress
         
 ## Projects in this Repository 
