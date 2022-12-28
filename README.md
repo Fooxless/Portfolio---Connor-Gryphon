@@ -27,7 +27,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 ---
 
 ### 4. Volcano Web App [2022]
-    - In Progress
+   - In Progress
         
 ## Projects in this Repository 
 
