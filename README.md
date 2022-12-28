@@ -6,6 +6,20 @@ My name is Connor Gryphon and I am recent graduate from the Queensland Universit
 
 This portfoilio consists of personal and unversity projects that I have worked on in the past and allows you to see some of my previous work. There will be screenshots included with each project for a quick glance of what the project is and some of my Web projects have been deployed and will be viewable in the URL specified.
 
+## Projects in Other Repositories
+
+### 1. DnD Encounters Web App [2022]
+   - In Progress
+       
+### 2. Convert Image Resolutions Web App [2022]
+   - Have to Deploy
+
+### 3. MashFoodie Web App [2022]
+    - Have to Deploy
+        
+### 4. Volcano Web App [2022]
+    - Have to Deploy
+        
 ## Projects in this Repository 
 
 ### [C# - Movie Management [2022]](https://github.com/Fooxless/Portfolio-Connor-Gryphon/tree/master/C%23/Movie%20Mangement)
@@ -42,19 +56,5 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ---
 
-## Projects in Other Repositories
 
-### 1. DnD Encounters Web App [2022]
-   - In Progress
-       
-### 2. Convert Image Resolutions Web App [2022]
-   - Have to Deploy
-
-### 3. MashFoodie Web App [2022]
-    - Have to Deploy
-        
-### 4. Volcano Web App [2022]
-    - Have to Deploy
-        
-        
 
