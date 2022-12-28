@@ -12,7 +12,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
    - In Progress
        
 ### 2. Convert Image Resolutions Web App [2022]
-   - Have to Deploy
+   - In Progress
 
 ### 3. [MashFoodie Web App [2022]](https://github.com/Fooxless/MashFoodie-Web-App)
 
@@ -27,7 +27,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 ---
 
 ### 4. Volcano Web App [2022]
-    - Have to Deploy
+    - In Progress
         
 ## Projects in this Repository 
 
