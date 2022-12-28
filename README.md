@@ -50,7 +50,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
 ### 2. Convert Image Resolutions Web App [2022]
    - Have to Deploy
 
-### 3. API Mashup Web App [2022]
+### 3. MashFoodie Web App [2022]
     - Have to Deploy
         
 ### 4. Volcano Web App [2022]
