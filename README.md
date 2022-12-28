@@ -48,6 +48,7 @@ This portfoilio consists of personal and unversity projects that I have worked o
         - Java Swing (GUI Toolkit)
         - Ant (Automated Building)
         - Jupiter (Unit Testing)
+        - SQLite
         - Depth First Search (Best Maze Solution)
      
 ![Larger Solvable Maze](https://user-images.githubusercontent.com/102510556/209651443-8b27ca99-076c-448a-8844-be140938f482.PNG)
