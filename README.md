@@ -10,9 +10,20 @@ This portfoilio consists of personal and unversity projects that I have worked o
 
 ### DnD Encounters Web App [2022]
    - In Progress
+   
+---
+
+### [Convert Image Resolutions Web App [2022]](https://github.com/Fooxless/ImageProject)
+   - The purpose of this cloud application is to allow an individual to generate a random image then download it in a variety of formats depending on how they would like to use it. Currently the different support formats are HD, HDV, 2k and 4k. A user is also able to go back through the global history and retrieve a recent previously downloaded image if it appears within the last 10 images generated. This application was set to scale depending on the usage.
+   
+       - AWS Bucket, Elasticache, Redis and Load Balancer
+       - [Unsplash Random Image URL](https://source.unsplash.com/random), Jimp (Image Manipulation Library)
+       - React (Frontend) 
+       - Express (Backend)
        
-### Convert Image Resolutions Web App [2022]
-   - In Progress
+ ![screenshot 1](https://user-images.githubusercontent.com/102510556/210462228-6285676d-84bd-43b7-b6e0-6c042f068100.PNG)
+
+---
 
 ### [MashFoodie Web App [2022]](https://github.com/Fooxless/MashFoodie-WebApp)
 
