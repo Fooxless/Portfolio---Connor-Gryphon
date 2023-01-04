@@ -13,6 +13,11 @@ This portfoilio consists of personal and unversity projects that I have worked o
    
 ---
 
+### Capstone: LMS Dashboard [2022]
+   - In Progress
+   
+---
+
 ### [ImageProject Web App [2022]](https://github.com/Fooxless/ImageProject)
    - The purpose of this cloud application is to allow an individual to generate a random image then download it in a variety of formats depending on how they would like to use it. Currently the different support formats are HD, HDV, 2k and 4k and this application was set to scale depending on the usage.
    
@@ -36,9 +41,6 @@ This portfoilio consists of personal and unversity projects that I have worked o
        ![map to](https://user-images.githubusercontent.com/102510556/209744657-2d679500-8d07-4965-be6b-733293b56a15.PNG)
 
 ---
-
-### Volcano Web App [2022]
-   - In Progress
         
 ## Projects in this Repository 
 
